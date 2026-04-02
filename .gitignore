@@ -1,0 +1,23 @@
+# ===== Spring Boot Backend =====
+smart-attendance-backend/target/
+smart-attendance-backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# ===== React Frontend =====
+smart-attendance-frontend/node_modules/
+smart-attendance-frontend/dist/
+smart-attendance-frontend/.env.local
+smart-attendance-frontend/.env.*.local
+
+# ===== IDE / OS =====
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+*.suo
+*.user
